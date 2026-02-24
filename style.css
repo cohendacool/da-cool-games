@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(15, 30, 75);
+}
+
+a {
+    color: inherit;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+h1 {
+    color: rgb(160, 200, 255);
+
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 64px;
+}
+
+#games {
+    color: white;
+}
